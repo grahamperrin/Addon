@@ -52,9 +52,15 @@ Here you can download the packed files for the Firefox- and Chrome-Dev:
 If you want to test whether ClearURLs works correctly on your system, you can go to this test page: [https://test.clearurls.xyz/](https://test.clearurls.xyz/)
 
 ## Contribute
-If you have any suggestions or complaints, please [create an issue.](https://gitlab.com/KevinRoebert/ClearUrls/issues/new)
+If you have any suggestion or complaint, please create an issue in GitLab: 
 
-**Note: If you have any suggestions or complaints regarding the rules, please [create an issue in this repo](https://gitlab.com/anti-tracking/ClearURLs/rules/-/issues/new) or email us rules.support (at) clearurls.xyz (this mail will automatically create a new issue in this repo).**
+* https://gitlab.com/KevinRoebert/ClearUrls/-/issues
+
+**For rules**, issues are in a different repository: 
+
+* https://gitlab.com/ClearURLs/rules/-/issues
+
+– an email to `rules.support (at) clearurls.xyz` will create an issue in this repo.
 
 ### Translate ClearURLs
 You want to help translating ClearURLs into many languages? – Nice
